@@ -1,0 +1,27 @@
+My associate id:
+844529
+Other team members:
+844530,844619,844553,844552,844529
+Team lead:
+844529
+My Role in team:
+1. To develop place appointment and view appointment components
+2. To develop service file to perform rest api calls.
+3. To develop app component.
+My development files:
+1. app.component.html
+2. appointment.service.ts
+3. placeappointment.component.html
+4. placeappointment.component.ts
+5. viewappointment.component.html
+6. viewappointment.component.ts
+7. app.component.css	
+I was strong in:
+1. Template Driven Forms
+2. HttpClient
+3. Validation
+4. Using Json Server
+I was weak in:
+1. Reactive Forms
+Feedback:
+1. Able to read codesprint document 1 day in advance will help.
